@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Mostly coding with Golang, Rust and C/C++
+Coding with Golang, Rust and C/C++
 
 Now focusing on Backend and Infrastructure development
 
