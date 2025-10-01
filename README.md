@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+Mostly coding with Golang, Rust and C/C++
+
+Now focusing on Backend and Infrastructure development
+
+Kinda interested in eBPF and kernel network stack
+
+Formerly internshiped at [Meitu.Inc](https://www.meitu.com) as Backend Engineer
+
+
 <!--
 **zenyanle/zenyanle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
