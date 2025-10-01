@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-- Mostly coding with Golang, Rust and C/C++
+Mostly coding with Golang, Rust and C/C++
 
-- Now focusing on Backend and Infrastructure development
+Now focusing on Backend and Infrastructure development
 
-- Kinda interested in eBPF and kernel network stack
+Kinda interested in eBPF and kernel network stack
 
-- Formerly internshiped at [Meitu.Inc](https://www.meitu.com) as Backend Engineer
+Formerly internshiped at [Meitu.Inc](https://www.meitu.com) as Backend Engineer
 
 
 <!--
