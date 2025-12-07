@@ -1,25 +1,13 @@
-## Hi there 👋
+```rust
+struct Developer {
+    langs: ["Golang", "Rust", "C/C++"],
+    focus: ["Backend", "Infrastructure"],
+    
+    experience: {
+        role: "Former Backend Intern",
+        company: "Meitu.Inc" // 美图秀秀
+    },
 
-Coding with Golang, Rust and C/C++
-
-Focusing on Backend and Infrastructure development
-
-Exploring eBPF and kernel network stack
-
-Formerly internshiped at [Meitu.Inc](https://www.meitu.com) as Backend Engineer
-
-
-<!--
-**zenyanle/zenyanle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    // Current state of mind
+    motto: "私は私の世界の実験台" 
+}
