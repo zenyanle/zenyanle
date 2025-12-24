@@ -1,13 +1,14 @@
-```rust
+ ```rust
 struct Developer {
     langs: ["Golang", "Rust", "C/C++"],
     focus: ["Backend", "Infrastructure"],
+
+    current_status: "Joining Meituan as Sec Dev Intern 🚀", 
     
     experience: {
         role: "Former Backend Intern",
-        company: "Meitu.Inc" // 美图秀秀
+        company: "Meitu.Inc"
     },
-
-    // Current state of mind
-    motto: "私は私の世界の実験台" 
 }
+```
+私は私の世界の実験台
